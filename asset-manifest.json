@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-fb-auth/static/css/main.b5842018.css",
+    "main.js": "/react-fb-auth/static/js/main.be5ba5d6.js",
+    "static/js/787.f81a0625.chunk.js": "/react-fb-auth/static/js/787.f81a0625.chunk.js",
+    "index.html": "/react-fb-auth/index.html",
+    "main.b5842018.css.map": "/react-fb-auth/static/css/main.b5842018.css.map",
+    "main.be5ba5d6.js.map": "/react-fb-auth/static/js/main.be5ba5d6.js.map",
+    "787.f81a0625.chunk.js.map": "/react-fb-auth/static/js/787.f81a0625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5842018.css",
+    "static/js/main.be5ba5d6.js"
+  ]
+}
